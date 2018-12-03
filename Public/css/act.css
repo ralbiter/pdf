@@ -1,0 +1,16 @@
+.span{
+  text-align: center;
+  color:white
+}
+.mor{
+  color: white
+}
+.li{
+  color: white
+}
+.table-hover tr:hover{
+  background-color:#ffffff80;
+}
+.ge{
+  text-align: right;
+}
